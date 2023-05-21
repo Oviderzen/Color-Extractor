@@ -4,7 +4,7 @@ Simple application that can extract the 10 most used colors from an image. Made 
 
 <p style="text-align:center;">App Main Screen.</p>
 
-![app-main](https://i.postimg.cc/4NWpYYTW/Color-Extractor-1.png)
+![app-main](https://i.postimg.cc/ZRLCXQbw/Color-Extractor-1.png)
 <br>
 
 <p style="text-align:center;">Results Page.</p>
